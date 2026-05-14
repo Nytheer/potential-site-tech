@@ -1,2 +1,2 @@
-# potential-site-tech
+# site-tech
 Coisas acadêmicas
