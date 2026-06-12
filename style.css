@@ -1,0 +1,79 @@
+body{
+    background:#0d1f67;
+    font-family:'Franklin Gothic Medium', sans-serif;
+    display:flex;
+    justify-content:center;
+    margin-top:40px;
+    color:#7fc7ff;
+}
+
+.app{
+    width:350px;
+}
+
+.topo{
+    border:2px solid #67c5ff;
+    padding:15px;
+    border-radius:5px;
+    text-align:center;
+}
+
+h1{
+    margin:0;
+    font-size:38px;
+    color:#67c5ff;
+    text-shadow:2px 2px 0px #001f66;
+}
+
+.area-input{
+    margin-top:15px;
+    display:flex;
+    justify-content:center;
+    gap:5px;
+}
+
+input{
+    width:210px;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    outline:none;
+    font-size:15px;
+}
+
+button{
+    border:none;
+    border-radius:5px;
+    background:#1ccf76;
+    color:white;
+    width:40px;
+    font-size:25px;
+    cursor:pointer;
+    transition:0.2s;
+}
+
+button:hover{
+    transform:scale(1.05);
+}
+
+h2{
+    margin-top:10px;
+    font-size:16px;
+    color:#d5e8ff;
+}
+
+ul{
+    margin-top:25px;
+    padding-left:30px;
+    font-size:16px;
+}
+
+li{
+    margin-bottom:10px;
+    cursor:pointer;
+}
+
+.feito{
+    text-decoration:line-through;
+    opacity:0.5;
+}
